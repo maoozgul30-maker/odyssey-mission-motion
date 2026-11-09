@@ -1,0 +1,4 @@
+- [x] Rebuild the Odyssey desktop home and mission-control screens from the supplied references.
+- [x] Add space visuals, transitions, animated station cards, and working mission controls.
+- [x] Keep the experience desktop-only and verify the desktop presentation.
+- [x] Recheck the final desktop preview and build after removing smaller-device layouts.
